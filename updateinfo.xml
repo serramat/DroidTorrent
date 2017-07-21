@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <appName>DroidTorrent</appName>
+    <appDescription>An awesome app which allows you to easily find your preferred torrents and without any annoying pop-up</appDescription>
+    <packageName>it.serramat.droidtorrent</packageName>
+    <versionCode>11</versionCode>
+    <versionName>1.0.1</versionName>
+    <forceUpdate>false</forceUpdate>
+    <autoUpdate>true</autoUpdate>
+    <apkUrl>https://github.com/serramat/DroidTorrent/blob/master/DroidTorrent.apk</apkUrl>
+    <updateTips>
+        <default>update tips</default>
+        <en>update tips</en>
+    </updateTips>
+</updateInfo>
