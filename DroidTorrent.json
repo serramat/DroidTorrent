@@ -1,0 +1,32 @@
+{
+	"providers": [
+		{
+			"name" : "The Pirate Bay",
+			"url": "https://thepiratebay.rocks/"
+		},
+		{
+			"name" : "Kickass",
+			"url": "https://kat.rip/"
+		},
+		{
+			"name" : "1337x",
+			"url": "https://1337x.to/"
+		},
+		{
+			"name" : "EZTV",
+			"url": "https://eztv.ag"
+		},
+		{
+			"name" : "RARBG",
+			"url": "https://torrentapi.org/pubapi_v2.php"
+		},
+		{
+			"name" : "YTS",
+			"url": "https://eztv.ag"
+		},
+		{
+			"name" : "Corsaro Nero",
+			"url": "https://ilcorsaronero.link/"
+		}
+	]
+}
