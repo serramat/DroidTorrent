@@ -2,7 +2,19 @@
 	"providers": [
 		{
 			"name" : "The Pirate Bay",
-			"url": "https://thepiratebay.rocks/"
+			"url": "https://thepiratebay.rocks/",
+			"proxy": [
+				"https://thepiratebay0.org/",
+				"https://thepiratebay10.org/",
+				"https://pirateproxy.live/",
+				"https://piratebay.live/",
+				"https://thepiratebay.zone/",
+				"https://piratebay.live/",
+				"https://tpb.party/",
+				"https://piratebayproxy.live/",
+				"https://piratebay.party/",
+				"https://thepiratebay.party/"
+			]
 		},
 		{
 			"name" : "Kickass",
@@ -26,7 +38,11 @@
 		},
 		{
 			"name" : "Corsaro Nero",
-			"url": "https://ilcorsaronero.link/"
+			"url": "https://ilcorsaronero.link/",
+			"proxy": [
+				"https://ilcorsaronero.pro/",
+				"https://ilcorsaronero.fun/"
+			]
 		}
 	]
 }
