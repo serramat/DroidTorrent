@@ -30,7 +30,12 @@
 		},
 		{
 			"name" : "EZTV",
-			"url": "https://eztv.ag"
+			"url": "https://eztv.re/",
+			"proxy": [
+				"https://eztv.ag/",
+				"https://eztv.it/",
+				"https://eztv.ch/"
+			]
 		},
 		{
 			"name" : "RARBG",
