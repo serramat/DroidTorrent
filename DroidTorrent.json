@@ -18,7 +18,10 @@
 		},
 		{
 			"name" : "Kickass",
-			"url": "https://kat.rip/"
+			"url": "https://kat.rip/",
+			"proxy": [
+				"https://katbay.org/"
+			]
 		},
 		{
 			"name" : "1337x",
