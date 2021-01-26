@@ -20,7 +20,15 @@
 			"name" : "Kickass",
 			"url": "https://kickass.onl/",
 			"proxy": [
-				"https://katbay.org/"
+				"https://katbay.org/",
+				"https://kick4ss.net/",
+				"https://kickasstorrents.bz/",
+				"https://kkickass.com/",
+				"https://kkat.net/",
+				"https://kickasst.net/",
+				"https://kickasstorrents.id/",
+				"https://thekat.cc/",
+				"https://kickasshydra.dev/"
 			]
 		},
 		{
