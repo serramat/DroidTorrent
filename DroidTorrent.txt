@@ -1,2 +1,2 @@
-VERSION_CODE=38
-APK=https://github.com/serramat/DroidTorrent/releases/download/38/DroidTorrent.apk.zip
+VERSION_CODE=40
+APK=https://github.com/serramat/DroidTorrent/releases/download/40/DroidTorrent.apk.zip
