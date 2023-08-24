@@ -54,7 +54,12 @@
 		},
 		{
 			"name" : "YTS",
-			"url": "https://yts.ag/api/v2/"
+			"url": "https://yts.mx/api/v2/",
+			"proxy": [
+				"https://yts.lt/api/v2/",
+				"https://yts.am/api/v2/",
+				"https://yts.ag/api/v2/"
+			]
 		},
 		{
 			"name" : "Corsaro Nero",
