@@ -41,11 +41,12 @@
 		},
 		{
 			"name" : "EZTV",
-			"url": "https://eztv.re/",
+			"url": "https://eztvx.to/",
 			"proxy": [
-				"https://eztv.ag/",
-				"https://eztv.it/",
-				"https://eztv.ch/"
+				"https://eztv1.xyz/",
+				"https://eztv.wf/",
+				"https://eztv.tf/",
+				"https://eztv.yt/"
 			]
 		},
 		{
