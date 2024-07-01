@@ -2,30 +2,34 @@
 	"providers": [
 		{
 			"name" : "The Pirate Bay",
-			"url": "https://thepiratebay.rocks/",
+			"url": "https://thepiratebay10.info/",
 			"proxy": [
+				"https://thepiratebay7.com/",
 				"https://thepiratebay0.org/",
-				"https://thepiratebay10.org/",
+				"https://thepiratebay10.org/".
+				"https://thehiddenbay.com/",
 				"https://pirateproxy.live/",
 				"https://piratebay.live/",
 				"https://thepiratebay.zone/",
-				"https://piratebay.live/",
 				"https://tpb.party/",
-				"https://piratebayproxy.live/",
+				"https://thepiratebay.party/",
 				"https://piratebay.party/",
-				"https://thepiratebay.party/"
+				"https://piratebayproxy.live/",
+				"https://pirateproxylive.org",
+				"https://thepiratebay10.xyz"
 			]
 		},
 		{
 			"name" : "Kickass",
-			"url": "https://kickass.onl/",
+			"url": "https://kickasst.net",
 			"proxy": [
 				"https://katbay.org/",
 				"https://kick4ss.net/",
+				"https://thekat.app",
 				"https://kickasstorrents.bz/",
 				"https://kkickass.com/",
 				"https://kkat.net/",
-				"https://kickasst.net/",
+				"https://kickass-kat.com",
 				"https://kickasstorrents.id/",
 				"https://thekat.cc/",
 				"https://kickasshydra.dev/"
